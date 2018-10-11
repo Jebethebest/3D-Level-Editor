@@ -101,51 +101,6 @@ void OverlordEditor::on_actionMaterial_triggered()
 
 #pragma region ACTIONS	
 
-void OverlordEditor::NewScene()
-{
-}
-
-void OverlordEditor::OpenScene()
-{
-}
-
-void OverlordEditor::SaveScene()
-{
-}
-
-void OverlordEditor::SaveSceneAs()
-{
-}
-
-void OverlordEditor::Build()
-{
-}
-
-void OverlordEditor::Undo()
-{
-}
-
-void OverlordEditor::Redo()
-{
-}
-
-void OverlordEditor::Cut()
-{
-}
-
-void OverlordEditor::Copy()
-{
-}
-
-void OverlordEditor::Paste()
-{
-}
-
-void OverlordEditor::CreateActions()
-{
-
-}
-
 #pragma endregion 
 
 void OverlordEditor::on_ImportButton_clicked()
